@@ -5,3 +5,5 @@ For coloring with input, run the following commands as per use:<br>
     `python inputColorize.py -img_in dog.jpg -img_out dog_out.jpg -a 40 -b 62 -height 50 -width 50`<br>
    2) For coloring a video with object detection, <br>
     `python obdect.py --pathIn dog_bw.mp4 --pathOut ""`
+    
+    ![dog with just colorisation](dog_color1.png?raw=true "Title")
