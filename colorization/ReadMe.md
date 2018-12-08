@@ -6,5 +6,19 @@ For colorisating without input, go to colorisation directory and run the followi
   3) For coloring a video, go to the colorisation directory <br>
     `python videoColorizer.py --pathIn dog.mp4 --pathOut ""`<br>  
     
- The inputs folder contains some iconic grayscale images, outputs folder contains the colorised version as produced by model.<br>
+### The inputs folder contains some iconic grayscale images, outputs folder contains the colorised version as produced by model.<br>
+ 
+<img src="inputs/effiel.JPG" width="300"><img src="outputs/effiel.JPG" width="300"><br>
+<img src="inputs/pyramids.JPG" width="300"><img src="outputs/pyramids.JPG" width="300"><br>
+<img src="inputs/titanic.JPG" width="300"><img src="outputs/titanic.JPG" width="300"><br>
+
+### Some examples of colorisation as produced by the model are <br>
+<img src="in_mountain.jpg" width="300"><img src="out_mountain.png" width="300"><br>
+
+<img src="in_bowl.png" width="300"><img src="out_bowl.png" width="300"><br>
+
+<img src="in_rose.jpeg" width="300"><img src="out_rose.jpeg" width="300"><br>
+
+
+
  
