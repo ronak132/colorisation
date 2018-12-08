@@ -1,5 +1,6 @@
 # Auto-colorisation
-Let there be color : automation colorisation of grayscale images and videos
+CSCE 636: Neural Networks
+Let there be color : Automatic colorisation of grayscale images and videos
 
 Contributors:
 =========================
