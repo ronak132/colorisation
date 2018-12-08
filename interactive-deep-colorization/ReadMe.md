@@ -6,4 +6,16 @@ For coloring with input, run the following commands as per use:<br>
    2) For coloring a video with object detection, <br>
     `python obdect.py --pathIn dog_bw.mp4 --pathOut ""`
     
-    ![dog with just colorisation](dog_color1.png?raw=true "Title")
+   ![dog with just colorisation](dog_color.JPG?raw=true "Title")<br>
+   ![dog with red input](dog_color1.png?raw=true "Title")<br>
+   ![dog with green input](dog_color2.JPG?raw=true "Title")<br>
+   
+   Coloring dog with custom colors<br>
+   
+   
+   
+   ![rose with just colorisation](rose_vanila.png?raw=true "Title")<br>
+   ![rose with red input](rose_input1.png?raw=true "Title")<br>
+   ![rose with green input](rose_input2.png?raw=true "Title")<br>
+   
+   Coloring rose with custom colors
